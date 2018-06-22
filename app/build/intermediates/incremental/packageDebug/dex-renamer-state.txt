@@ -1,0 +1,7 @@
+#Wed Jun 20 23:54:05 IST 2018
+base.0=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_218ede325384c8738221834c7b95357f0414754c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80767c1e3beafb8b27d95109bc08a067128c858d\\classes.dex
+base.1=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80767c1e3beafb8b27d95109bc08a067128c858d
+file.0=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_218ede325384c8738221834c7b95357f0414754c\\classes.dex

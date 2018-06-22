@@ -1,0 +1,13 @@
+#Wed Jun 20 23:54:02 IST 2018
+renamed.3=classes4.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.3=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_48ab8077940a375ade19c12f71909a811eeaf84a
+base.2=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_07abe77c83a5d33a8b73e94c784a5016f154d363
+base.1=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0a8d0b71a9f1e04050e7e08d037854930ab1dd66
+base.0=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_3b6a6381b03b7ddf4e67c9c04117ec6f1c3cd2ae
+file.3=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_48ab8077940a375ade19c12f71909a811eeaf84a\\classes.dex
+file.2=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_07abe77c83a5d33a8b73e94c784a5016f154d363\\classes.dex
+file.1=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0a8d0b71a9f1e04050e7e08d037854930ab1dd66\\classes.dex
+file.0=C\:\\Users\\Angad\\Desktop\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_3b6a6381b03b7ddf4e67c9c04117ec6f1c3cd2ae\\classes.dex
